@@ -1,1 +1,2 @@
-This is an empty repo that i use to take notes of stuff. Head to the [wiki](https://github.com/wextia/my-notes/wiki) if you want to actually see something.
+This is a repo where i write down random stuff i learn and dont want to
+forget about.
