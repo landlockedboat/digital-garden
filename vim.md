@@ -1,5 +1,6 @@
 lun abr  3 13:19:19 CEST 2017
 
+
 ^ This is done with `:read !date`, btw.
 
 * `.`: repeats the previous change. Think about it as a reverse `u`.
@@ -16,8 +17,6 @@ the according hjkl key and diving back into Insert mode. Disgusting.
 * `daw`: `delete-a-word`. `aw` is not a motion, rather a text object. `daw` 
 works even if our cursor is at the end of the word.
 
-mar abr  4 00:11:26 CEST 2017
-
 * `<C-a>`: Adds the {count} to the number the cursor is in. `<C-x>` substracts.
 If no number is found in the cursor, vim jumps to the nearest one in the line.
 
@@ -26,3 +25,12 @@ If no number is found in the cursor, vim jumps to the nearest one in the line.
 * `<C-h>`: delete back one character
 * `<C-w>`: delete back one word
 * `<C-u>`: delete till start of line
+* `<C-o>`: enter insert normal mode
+* `<C-r>{register}`: yank text in current position. If we use the expression
+operator `=` we can yank simple VimScript arithmetic.
+* `<C-v>`: insert an arbitrary character either by its number or by a 
+keystroke. This is useful for inserting tab characters `<C-v><Tab>` when 
+indenting with spaces.
+
+
+
