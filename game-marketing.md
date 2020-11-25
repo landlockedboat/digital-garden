@@ -1,6 +1,6 @@
 # Game Marketing
 
-## [Marketing on Zero Budget - GDC (2018)](https://youtu.be/l3QnovWYvwo)
+## [Marketing on Zero Budget - GDC \(2018\)](https://youtu.be/l3QnovWYvwo)
 
 * One can promote a game with zero butget if it creates an audience before the game.
 * Calls to action: Join our newsletter / Join our Discord
@@ -19,7 +19,7 @@
   * Ask for Twitter to verify you.
   * Ask for the dudes at the play store tips on how to get your game featured.
 
-## [You Suck at Showcasing Your Game - GDC (2017)](https://youtu.be/gB8CvsOjDvg)
+## [You Suck at Showcasing Your Game - GDC \(2017\)](https://youtu.be/gB8CvsOjDvg)
 
 Video about showcasing your game at game events. It lays out some tips, divided into "before", "during" and "after" the even has taken place. Very interesting and practical.
 
@@ -27,20 +27,20 @@ Video about showcasing your game at game events. It lays out some tips, divided 
 
 * Prints: Logos high up in the print
 * Flyers: Don't do that
-  * Instead: Business card-sized prints! (possible to be collectable, free stuff!)
+  * Instead: Business card-sized prints! \(possible to be collectable, free stuff!\)
 * Set the game to convention mode
   * Shorter play sessions
   * Unlock everyting
   * Idle card
   * Fill empty seats with AI
-  * Safe environment (dont let the player tweak options, streamlined experience)
+  * Safe environment \(dont let the player tweak options, streamlined experience\)
 
 ### During the event
 
 * Bring mints for your voice
-* Avoid keyboards (simplify the game layout!!!)
-  * Go wired if using game controllers (safety)
-  * If mobile, get a big touchscreen or buy phone holders (again, safety)
+* Avoid keyboards \(simplify the game layout!!!\)
+  * Go wired if using game controllers \(safety\)
+  * If mobile, get a big touchscreen or buy phone holders \(again, safety\)
 * Height is super important. The higher you can get your prints, the better.
   * Two monitor setup, one for the players, one for the audience. Or just one big boy monitor high enough for the people in the back to see.
   * Get balloons
@@ -50,7 +50,7 @@ Video about showcasing your game at game events. It lays out some tips, divided 
 * TV topper w/logo
 * Buy food before the doors open
 * Film stuff
-  * Reaction cam (webcam recording the croud)
+  * Reaction cam \(webcam recording the croud\)
 * Free stuff! Give free stuff to folks to attract people
 * Tournamets get lots of eyes.
   * Free steam key to all spectators if hard challenge is won by a player.
@@ -68,3 +68,4 @@ Video about showcasing your game at game events. It lays out some tips, divided 
 * You won't get a sales spike after the event. Probably helps with a sale after the event.
   * Builds an audience over time.
   * Events are for getting awesome relationships w/other industry people.
+
