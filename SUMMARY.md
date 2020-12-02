@@ -13,3 +13,5 @@
 * [Art](art.md)
 * [Podcasts](podcasts.md)
 * [Inspiration](inspiration.md)
+* [Research papers](research-papers/research-papers.md)
+  * [Tabletop Roleplaying Games as Procedural Content Generators (2018)](research-papers/guzdial-et-al-2018.md)
